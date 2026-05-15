@@ -11,8 +11,8 @@ My name is Dorcas Chepkorir.I am passionate about techonolgy,collaboration and g
 I expect to grow my technical skills in data,engage and learn with fellow peers and get to incorporate my skills to solve real world projects.
 
 # What I hope to learn
- *Basic data analysis and science concepts
- *Interpretation and analysis of data sets
- *Python programming in data science
- *Solving real world problems using skills and knowledge learnt
- *Team work and collaborations
+ * Basic data analysis and science concepts
+ * Interpretation and analysis of data sets
+ * Python programming in data science
+ * Solving real world problems using skills and knowledge learnt
+ * Team work and collaborations
