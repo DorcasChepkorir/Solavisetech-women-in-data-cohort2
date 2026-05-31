@@ -1,4 +1,3 @@
-<<<<<<< HEAD
 # Personal Bio Generator
 name = "Dorcas Chepkorir"
 age = 20
@@ -49,7 +48,8 @@ print(f"Hello {name}, you are {age} years old and you come from {country}.")
 celsius = float(input("Enter temperature in Celsius: "))
 
 fahrenheit = (celsius * 9/5) + 32
-=======
+print(f"{celsius}°C is equal to {fahrenheit}°F")
+
 # Personal Bio Generator
 name = "Dorcas Chepkorir"
 age = 20
@@ -100,5 +100,4 @@ print(f"Hello {name}, you are {age} years old and you come from {country}.")
 celsius = float(input("Enter temperature in Celsius: "))
 
 fahrenheit = (celsius * 9/5) + 32
->>>>>>> a4f637d8f5e52f25e1f6812b7296df978f5a9e56
 print(f"{celsius}°C is equal to {fahrenheit}°F")

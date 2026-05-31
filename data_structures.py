@@ -1,4 +1,4 @@
-<<<<<<< HEAD
+
 # Favorite Tools List
 tools = ["Python", "Excel", "Power BI"]
 
@@ -68,7 +68,7 @@ name = input("Enter contact name: ")
 if name in contacts:
     print(f"{name}'s number is {contacts[name]}")
 else:
-=======
+    print("Contact not found.")
 # Favorite Tools List
 tools = ["Python", "Excel", "Power BI"]
 
@@ -138,5 +138,4 @@ name = input("Enter contact name: ")
 if name in contacts:
     print(f"{name}'s number is {contacts[name]}")
 else:
->>>>>>> a4f637d8f5e52f25e1f6812b7296df978f5a9e56
     print("Contact not found.")

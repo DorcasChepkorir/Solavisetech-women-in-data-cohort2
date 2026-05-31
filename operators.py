@@ -1,4 +1,4 @@
-<<<<<<< HEAD
+
 # Simple Calculator
 num1 = float(input("Enter first number: "))
 num2 = float(input("Enter second number: "))
@@ -54,7 +54,7 @@ num1 = int(input("Enter a number: "))
 num2 = int(input("Enter another number: "))
 
 print("Power:", num1 ** num2)
-=======
+
 # Simple Calculator
 num1 = float(input("Enter first number: "))
 num2 = float(input("Enter second number: "))
@@ -110,5 +110,4 @@ num1 = int(input("Enter a number: "))
 num2 = int(input("Enter another number: "))
 
 print("Power:", num1 ** num2)
->>>>>>> a4f637d8f5e52f25e1f6812b7296df978f5a9e56
 print("Modulus:", num1 % num2)
